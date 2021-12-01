@@ -1,0 +1,16 @@
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.exe
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.deps.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.runtimeconfig.dev.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\ref\rumövning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\bin\Debug\net5.0\rumövning.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\ref\rumövning.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\webb\programering\rumövning\rumövning\obj\Debug\net5.0\rumövning.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj": {}
+    "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj": {
+    "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj",
+        "projectUniqueName": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj",
         "projectName": "rumövning",
-        "projectPath": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj",
+        "projectPath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\rumövning.csproj",
         "packagesPath": "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\obj\\",
+        "outputPath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\webb\\programering\\rumövning\\rumövning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mesquitabohm.adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"
